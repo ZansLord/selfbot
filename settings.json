@@ -1,0 +1,34 @@
+{
+     "prefix": "!",
+     "namalu" : "𝗗𝗜𝗧𝗧𝗔𝗭",
+     "nomerlu": "6287840453098",
+     "namabot": "𝙆𝙄𝙍𝘼𝙍𝘼 𝘽𝙊𝙏𝙕",
+     "nomerbot": "6287840453098",
+     "gender" : "BENCONG",
+     "copyright" : "Extream",
+     "multi": false,
+     "onepref" : true,
+     "publik": true,
+     "forwarding": true,
+     "antitroli" : true,
+     "autovn" : true,
+     "autosticker" : false,
+     "autorespon" : true,
+     "autotyping" : false,
+     "chatBot" : false,
+     "autoread" : true,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "gamewaktu": 60,
+	"limitCount": 30,
+	"gcount": {
+		"prem": 40,
+		"user": 20
+},
+     "lolkey": "3a5fadc9dfb7b4b1f2a5a8e3",
+     "zeks": "officialdittaz", 
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
