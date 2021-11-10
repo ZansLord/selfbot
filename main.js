@@ -24,7 +24,7 @@ blocked = [];
 
 async function starts() {
 	client.autoReconnect = ReconnectMode.onConnectionLost
-	client.version = [2, 2119, 6]
+	client.version = [2, 2143, 3]
 	client.logger.level = 'warn'
 	console.log(`  ©`,`「`,color(`𝗘𝗫𝗧𝗥𝗘𝗔𝗠`,'red'),`」`)
 	client.on('qr', () => {
